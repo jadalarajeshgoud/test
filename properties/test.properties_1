@@ -1,3 +1,0 @@
-suites=./filelocation/suite.xml,./filelocation1/suite1.xml
-otherProperties=noValue
-value=value1
