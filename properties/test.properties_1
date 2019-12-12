@@ -1,0 +1,3 @@
+suites=./filelocation/suite.xml
+otherProperties=noValue
+value=value1
